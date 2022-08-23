@@ -1,0 +1,117 @@
+{
+  "version": 6,
+  "registerSourceHash": "5399f4341ec1753a9bc8e7a5b41d88b4089840d0",
+  "components": [
+    {
+      "fullName": "_Users_guillermocava__leantech__quantix__explorations_src_components_Counter_vue",
+      "importPath": "/Users/guillermocava/_leantech/_quantix/_explorations/src/components/Counter.vue",
+      "isModuleOrAlias": false
+    },
+    {
+      "fullName": "_Users_guillermocava__leantech__quantix__explorations_src_components_HelloWorld_vue",
+      "importPath": "/Users/guillermocava/_leantech/_quantix/_explorations/src/components/HelloWorld.vue",
+      "isModuleOrAlias": false
+    },
+    {
+      "fullName": "_Users_guillermocava__leantech__quantix__explorations_src_components_NamedSlots_vue",
+      "importPath": "/Users/guillermocava/_leantech/_quantix/_explorations/src/components/NamedSlots.vue",
+      "isModuleOrAlias": false
+    },
+    {
+      "fullName": "_Users_guillermocava__leantech__quantix__explorations_src_components_icons_IconDocumentation_vue",
+      "importPath": "/Users/guillermocava/_leantech/_quantix/_explorations/src/components/icons/IconDocumentation.vue",
+      "isModuleOrAlias": false
+    },
+    {
+      "fullName": "_Users_guillermocava__leantech__quantix__explorations_src_components_WelcomeItem_vue",
+      "importPath": "/Users/guillermocava/_leantech/_quantix/_explorations/src/components/WelcomeItem.vue",
+      "isModuleOrAlias": false
+    }
+  ],
+  "tests": {
+    "/Users/guillermocava/_leantech/_quantix/_explorations/src/components/Counter.spec.ts": {
+      "timestamp": 1661250591000,
+      "components": [
+        "_Users_guillermocava__leantech__quantix__explorations_src_components_Counter_vue"
+      ]
+    },
+    "/Users/guillermocava/_leantech/_quantix/_explorations/src/components/Counter.spec.tsx": {
+      "timestamp": 1661250591000,
+      "components": [
+        "_Users_guillermocava__leantech__quantix__explorations_src_components_Counter_vue"
+      ]
+    },
+    "/Users/guillermocava/_leantech/_quantix/_explorations/src/components/HelloWorld.spec.ts": {
+      "timestamp": 1661250591000,
+      "components": [
+        "_Users_guillermocava__leantech__quantix__explorations_src_components_HelloWorld_vue"
+      ]
+    },
+    "/Users/guillermocava/_leantech/_quantix/_explorations/src/components/HelloWorld.spec.tsx": {
+      "timestamp": 1661250591000,
+      "components": [
+        "_Users_guillermocava__leantech__quantix__explorations_src_components_HelloWorld_vue"
+      ]
+    },
+    "/Users/guillermocava/_leantech/_quantix/_explorations/src/components/NamedSlots.spec.ts": {
+      "timestamp": 1661250591000,
+      "components": [
+        "_Users_guillermocava__leantech__quantix__explorations_src_components_NamedSlots_vue"
+      ]
+    },
+    "/Users/guillermocava/_leantech/_quantix/_explorations/src/components/NamedSlots.spec.tsx": {
+      "timestamp": 1661250591000,
+      "components": [
+        "_Users_guillermocava__leantech__quantix__explorations_src_components_NamedSlots_vue"
+      ]
+    },
+    "/Users/guillermocava/_leantech/_quantix/_explorations/src/components/WelcomeItem.spec.tsx": {
+      "timestamp": 1661250591000,
+      "components": [
+        "_Users_guillermocava__leantech__quantix__explorations_src_components_icons_IconDocumentation_vue",
+        "_Users_guillermocava__leantech__quantix__explorations_src_components_WelcomeItem_vue"
+      ]
+    }
+  },
+  "sources": {
+    "/Users/guillermocava/_leantech/_quantix/_explorations/playwright/index.html": {
+      "timestamp": 1661250591000
+    },
+    "/Users/guillermocava/_leantech/_quantix/_explorations/playwright/index.js": {
+      "timestamp": 1661250591000
+    },
+    "/Users/guillermocava/_leantech/_quantix/_explorations/node_modules/vue/dist/vue.runtime.esm-bundler.js": {
+      "timestamp": 1661265609175.7332
+    },
+    "/Users/guillermocava/_leantech/_quantix/_explorations/src/components/HelloWorld.vue": {
+      "timestamp": 1661250591000
+    },
+    "/Users/guillermocava/_leantech/_quantix/_explorations/src/components/NamedSlots.vue": {
+      "timestamp": 1661250591000
+    },
+    "/Users/guillermocava/_leantech/_quantix/_explorations/src/components/Counter.vue": {
+      "timestamp": 1661250591000
+    },
+    "/Users/guillermocava/_leantech/_quantix/_explorations/src/components/WelcomeItem.vue": {
+      "timestamp": 1661250591000
+    },
+    "/Users/guillermocava/_leantech/_quantix/_explorations/src/components/icons/IconDocumentation.vue": {
+      "timestamp": 1661250591000
+    },
+    "/Users/guillermocava/_leantech/_quantix/_explorations/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": {
+      "timestamp": 1661265609133.257
+    },
+    "/Users/guillermocava/_leantech/_quantix/_explorations/node_modules/@vue/shared/dist/shared.esm-bundler.js": {
+      "timestamp": 1661265609091.5547
+    },
+    "/Users/guillermocava/_leantech/_quantix/_explorations/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": {
+      "timestamp": 1661265609146.049
+    },
+    "/Users/guillermocava/_leantech/_quantix/_explorations/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": {
+      "timestamp": 1661265609099.8481
+    },
+    "/Users/guillermocava/_leantech/_quantix/_explorations/src/assets/base.css": {
+      "timestamp": 1661250591000
+    }
+  }
+}
